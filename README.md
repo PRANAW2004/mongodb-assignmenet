@@ -1,6 +1,6 @@
 TEAM Members:
-Kenta Lange\n
-Pranaw Otthi\n
+- Kenta Lange
+- Pranaw Otthi
 
 Run the server using Nodemon server.js and then execute the below commands in the termianl
 
